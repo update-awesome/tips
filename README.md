@@ -1,11 +1,11 @@
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips) | [Polski](https://github.com/mbiesiad/tips) | [فارسی](https://github.com/javadnikbakht/git-tips)
+[English](http://git.io/git-tips) | <code>&nbsp;13724</code> ![](https://img.shields.io/github/last-commit/521xueweihan/git-tips) [中文](https://github.com/521xueweihan/git-tips) | <code>&nbsp;&nbsp;&nbsp;577</code> ![](https://img.shields.io/github/last-commit/Imangazaliev/git-tips) [Русский](https://github.com/Imangazaliev/git-tips) | <code>&nbsp;&nbsp;&nbsp;938</code> ![](https://img.shields.io/github/last-commit/mingrammer/git-tips) [한국어](https://github.com/mingrammer/git-tips) | <code>&nbsp;&nbsp;&nbsp;&nbsp;20</code> ![](https://img.shields.io/github/last-commit/hprobotic/git-tips) [Tiếng Việt](https://github.com/hprobotic/git-tips) | <code>&nbsp;&nbsp;&nbsp;219</code> ![](https://img.shields.io/github/last-commit/isotai/git-tips) [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips) | <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4</code> ![](https://img.shields.io/github/last-commit/mbiesiad/tips) [Polski](https://github.com/mbiesiad/tips) | [فارسی](https://github.com/javadnikbakht/git-tips)
 
 ### __Tools:__
 
-* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. (<code>&nbsp;&nbsp;&nbsp;&nbsp;10</code> ![](https://img.shields.io/github/last-commit/djoudi5/docker-git-tip) [Here in Docker container](https://github.com/djoudi5/docker-git-tip))
 
 P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 
